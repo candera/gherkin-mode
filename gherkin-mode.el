@@ -1,3 +1,13 @@
+;;; gherkin-mode.el --- An emacs major mode for editing gherkin files.
+
+;; Copyright (C) Craig Andera
+
+;; Author: Craig Andera
+;; Keywords: languages
+;; Version: 0.0.1
+
+;;; Commentary:
+
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 ;;
 ;; A mode for editing gherkin files.
@@ -5,6 +15,8 @@
 ;; For more about gherkin, see https://github.com/alandipert/gherkin
 ;;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+;;; Code:
 
 ;; TODO: Oh so many things
 
@@ -40,3 +52,4 @@
   )
 
 (provide 'gherkin-mode)
+;;; gherkin-mode.el ends here
